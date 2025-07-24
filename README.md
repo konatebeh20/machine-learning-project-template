@@ -28,21 +28,27 @@ Il est aussi un **modèle réutilisable** pour structurer tous mes projets de ML
 - 📂 `06_visualisation`
 - 📂 `07_evaluation`
 - 📂 `08_explanation`
+
 Chaque projet est organisé dans un **repo distinct**, relié à ce guide.  
 Chaque repo contiendra :
 
-<!-- Nos projet seront dans des repos distinct mais avec un lei vers ce repos de présentation. Il contiendrons :  -->
 - ✅  Notebook
 - ✅ Notes théoriques
 - ✅ Code Python
 
-## 🚀 Exemples
-Nous pouvons y mettre nos dataset **exemple** : Iris, Titanic, MNIST, etc.
+---
 
-- Liste des Dataset : 
-
+## 🚀 Jeux de données d’exemple
 
 
+Quelques **datasets** que nous pouvons utiliser pour s’exercer :
+- **Iris**
+- **Titanic**
+- **MNIST**
+- **Wine Quality**
+- **Breast Cancer Wisconsin**
+
+---
 
 ## 🚀 Projets utilisant ce template
 
@@ -52,10 +58,12 @@ Nous pouvons y mettre nos dataset **exemple** : Iris, Titanic, MNIST, etc.
 | Clustering Clients           | [Voir le repo](https://github.com/TonCompte/client-segmentation) |
 | MNIST Digits Classifier      | [Voir le repo](https://github.com/TonCompte/mnist-classifier)    |
 
+---
 
+## 🎯 **Usage**
+- Réutilisation de ce repo comme **point de départ** pour chaque nouveau projet.
+- Liaison des projets à ce template pour garder une cohérence méthodologique.
 
 ---
 
-🎯 **Usage** :  
-- Réutilise ce repo comme **template** pour chaque nouveau projet.
-- Adapte chaque dossier à ton projet réel.
+**Licence : MIT**
