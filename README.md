@@ -16,6 +16,16 @@ Il est aussi un **modèle réutilisable** pour structurer tous mes projets de ML
 7️⃣ **Evaluer le modèle** (score, confusion matrix…)  
 8️⃣ **Expliquer oralement les hypothèses, la formule, l’algorithme**
 
+## Etape detaillé du pipeline :
+- Charger et explorer tes données.
+- Nettoyer et prétraiter.
+- Choisir et justifier tes modèles.
+- Implémenter en Python.
+- Visualiser.
+- Évaluer.
+- Expliquer à voix haute.
+
+
 ---
 
 ## ✅ Structure du pipeline
@@ -35,6 +45,12 @@ Chaque repo contiendra :
 - ✅  Notebook
 - ✅ Notes théoriques
 - ✅ Code Python
+
+---
+
+**📌 Organisation :**
+- **Supervised_Learning/** → Méthodo complète pour régression, classification.
+- **Unsupervised_Learning/** → Méthodo complète pour clustering, réduction de dimension, détection d'anomalies.
 
 ---
 
